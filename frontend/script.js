@@ -10,7 +10,7 @@ function enterlist() {
     alertBox.style.display = "block";
     alertBox.innerHTML = `
       <div class="alert alert-danger" role="alert">
-        <b>Enter a task bhosdike..!!</b>
+        <b>Enter a task ..!!</b>
       </div>`;
 
     setTimeout(() => {
